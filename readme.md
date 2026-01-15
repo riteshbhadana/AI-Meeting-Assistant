@@ -1,3 +1,6 @@
+## youtube video sample 
+https://youtu.be/G-Pxq-Z5SgI
+
 🌟 Overview
 AI Meeting Assistant automatically analyzes meeting transcripts and generates summaries, action items, and insights in seconds. Never miss important details again!
 Key Benefits:
@@ -21,5 +24,6 @@ Key Benefits:
 # pip install -r requirements.txt
 
 # streamlit run app.py
+
 
 Open http://localhost:8501 in your browser.
