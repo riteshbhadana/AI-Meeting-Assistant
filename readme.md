@@ -20,10 +20,11 @@ Key Benefits:
 📚 Meeting History - Track all past analyses
 
 
-# git clone
+# git clone https://github.com/riteshbhadana/AI-Meeting-Assistant/
 # pip install -r requirements.txt
 
 # streamlit run app.py
 
 
 Open http://localhost:8501 in your browser.
+
